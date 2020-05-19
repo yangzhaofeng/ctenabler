@@ -31,6 +31,8 @@ Credit: COOL@gfan
 * SAMSUNG Galaxy S20
 * All Chinese brand devices like Huawei, Xiaomi and Oneplus
 
+If you can not use VoLTE on these devices, I recommend to install [VoEnabler](https://github.com/edgd1er/voenabler), though this module can also enable VoLTE.
+
 ### Known Unsupported devices
 
 * Google Pixel /XL 2016
