@@ -26,8 +26,8 @@ Credit: COOL@gfan
 
 ### Known supported devices
 
-* Google Pixel 2/XL
-* Google Pixel 3/XL
+* Google Pixel 2/XL (This module is not the best choice)
+* Google Pixel 3/XL (This module is not the best choice)
 * Google Pixel 4/XL
 * SONY Xperia 1
 * SONY Xperia 5
