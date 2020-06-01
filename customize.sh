@@ -9,7 +9,7 @@ device_name=`getprop ro.product.name`
 sdkversion=`getprop ro.system.build.version.sdk`
 in_unsupported=`unsupported_devices | grep device_name`
 
-if [ -n $in_unsupported ]; then
+if [ $in_unsupported != '' ]; then
 	ui_print "*******************************"
 	ui_print "	This module does not support your device"
 	ui_print "	Your device code is $device_name"

@@ -49,6 +49,10 @@ If you can not use VoLTE on these devices, I recommend to install [VoEnabler](ht
 
 ## Changelog
 
+### 0.0.4 (2020-06-01)
+
+- Major bug fix for Magisk shell environment
+
 ### 0.0.3 (2020-06-01)
 
 - Merged into Magisk Repo (Nothing changed)
